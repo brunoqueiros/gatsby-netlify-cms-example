@@ -1,6 +1,10 @@
 ---
 path: /blog/bruno
 date: '2018-07-23'
-title: 'bruno'
+title: bruno
 ---
 asdsadasdasdd
+
+
+
+youtube aaaaaa
