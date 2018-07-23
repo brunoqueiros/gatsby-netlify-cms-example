@@ -5,6 +5,4 @@ title: bruno
 ---
 asdsadasdasdd
 
-
-
 youtube aaaaaa
