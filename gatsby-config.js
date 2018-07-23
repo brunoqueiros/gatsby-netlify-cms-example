@@ -16,5 +16,14 @@ module.exports = {
       },
     },
     `gatsby-transformer-remark`,
+    {
+      resolve: "gatsby-remark-custom-blocks",
+      options: {
+        blocks: {
+          danger: "custom-block-danger",
+          info: "custom-block-info",
+        },
+      },
+    }
   ],
 }
