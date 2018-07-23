@@ -5,4 +5,4 @@ title: bruno
 ---
 asdsadasdasdd
 
-youtube VxVKMJThh04
+<img src="http://img.youtube.com/vi/VxVKMJThh04/maxresdefault.jpg" alt="Youtube Video"/>
